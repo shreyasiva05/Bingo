@@ -1,11 +1,7 @@
-// UMBC - CMSC 341 - Fall 2023 - Proj0
 #include "bingo.h"
 /*
 File: bingo.cpp
 Author: Shreya Sivakumar
-Date: 9/12/2023
-Lab Section:
-Email: shreyas7@umbc.edu
 Description:  This program is a bingo game
 */
 //Default constructor
